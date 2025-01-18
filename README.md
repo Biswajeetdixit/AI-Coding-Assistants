@@ -38,7 +38,8 @@ Ensure you have Python installed, then run:
 ```bash
 Copy
 Edit
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 Set Up API Key 🔑
 Add your Groq API Key in the .env file:
