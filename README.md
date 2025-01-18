@@ -151,3 +151,29 @@ Copy
 
 console.log(sum(2, 3));
 ```
+
+
+
+## 💡 Future Enhancements
+- 🌍 Add support for more programming languages.
+- 📘 Expand to include tutorials and best practices.
+- 🤝 Collaborate with developers for community contributions.
+## 👨‍💻 About the Developer
+- Hey there! 👋 I'm Biswajeet Dixit, a passionate AI and ML developer with a vision to simplify coding for everyone. Let's connect and build amazing things together! 🚀
+- 📧 Email: biswajeetdixit8495@gmail.com
+-📍 Location: Jajpur, Odisha, India
+- 🔗 LinkedIn: Connect with me!
+
+## 🙌 Contributing
+We welcome contributions! Please follow these steps:
+
+1 Fork the repo.
+2 Create a new branch: git checkout -b feature-branch.
+3 Commit your changes: git commit -m "Added a new feature".
+4 Push to the branch: git push origin feature-branch.
+5 Submit a pull request.
+## 🛡️ License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute with proper attribution. 📝
+
+## ⭐ Show Your Support
+If you find Code Guru useful, please give this project a ⭐ on GitHub and share it with your friends! Let's make coding fun and easy together! 🎉
