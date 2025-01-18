@@ -117,12 +117,13 @@ Hit the Run button and watch Code Guru do its magic! ✨
 
 
 
-📋 Sample Scenarios
-1️⃣ Generate Python Code
+## 📋 Sample Scenarios
+## 1️⃣ Generate Python Code
 Input: "Create a Python function to calculate factorial recursively."
 Output:
 
-```python
+```
+python
 Copy
 
 def factorial(n):
@@ -131,9 +132,9 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
 ```
-2️⃣ Debug JavaScript Code
+## 2️⃣ Debug JavaScript Code
 Input:
-
+```
 javascript
 Copy
 Edit
@@ -141,10 +142,12 @@ function sum(a, b) {
 return a + b;
 }
 console.log(sum(2));
+```
 Output: "Missing the second parameter in the function call. Corrected code:"
 
+```
 javascript
 Copy
 Edit
 console.log(sum(2, 3));
-
+```
