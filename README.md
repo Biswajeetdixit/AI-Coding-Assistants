@@ -114,3 +114,37 @@ Hit the Run button and watch Code Guru do its magic! ✨
 
 - Coding Tasks Only: Code Guru is optimized for coding-related queries. Non-coding tasks will prompt a friendly reminder! 🛑
 
+
+
+
+📋 Sample Scenarios
+1️⃣ Generate Python Code
+Input: "Create a Python function to calculate factorial recursively."
+Output:
+
+```python
+Copy
+
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * factorial(n - 1)
+```
+2️⃣ Debug JavaScript Code
+Input:
+
+javascript
+Copy
+Edit
+function sum(a, b) {
+return a + b;
+}
+console.log(sum(2));
+Output: "Missing the second parameter in the function call. Corrected code:"
+
+javascript
+Copy
+Edit
+console.log(sum(2, 3));
+
