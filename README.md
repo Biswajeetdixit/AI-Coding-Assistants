@@ -137,7 +137,7 @@ Input:
 ```
 javascript
 Copy
-Edit
+
 function sum(a, b) {
 return a + b;
 }
@@ -148,6 +148,6 @@ Output: "Missing the second parameter in the function call. Corrected code:"
 ```
 javascript
 Copy
-Edit
+
 console.log(sum(2, 3));
 ```
