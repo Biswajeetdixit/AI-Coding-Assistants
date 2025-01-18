@@ -162,7 +162,7 @@ console.log(sum(2, 3));
 - Hey there! 👋 I'm Biswajeet Dixit, a passionate AI and ML developer with a vision to simplify coding for everyone. Let's connect and build amazing things together! 🚀
 - 📧 Email: biswajeetdixit8495@gmail.com
   
--📍 Location: Jajpur, Odisha, India
+- 📍 Location: Jajpur, Odisha, India
 - 🔗 LinkedIn: Connect with me!
 
 ## 🙌 Contributing
