@@ -58,3 +58,34 @@ Copy
 streamlit run app.py
 ```
 # Enjoy Coding with Code Guru! 🎉
+
+
+## 🌐 How It Works
+## 1️⃣ Select Your Task
+Choose between:
+
+Generate Code
+Debug Code
+Other
+## 2️⃣ Pick Your Language
+Supported languages:
+
+## 🐍 Python
+## ☕ Java
+## ➕➕ C++
+## 📊 R
+## 🌐 JavaScript
+
+
+
+## 3️⃣ Enter Your Input
+Provide a description or code snippet for the task.
+
+## 4️⃣ Set Preferences
+Customize:
+
+🔥 Temperature: Controls creativity in responses.
+📏 Max Tokens: Limits the response length.
+## 5️⃣ Run and Get Results
+Hit the Run button and watch Code Guru do its magic! ✨
+
