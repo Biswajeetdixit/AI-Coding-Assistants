@@ -92,13 +92,13 @@ Hit the Run button and watch Code Guru do its magic! ✨
 
 
 ## 🤖 Why Code Guru?
--Efficiency: Save time on repetitive tasks.
+- Efficiency: Save time on repetitive tasks.
 
--Accuracy: Get precise and optimized solutions.
+- Accuracy: Get precise and optimized solutions.
 
--Flexibility: Supports multiple languages and tasks.
+- Flexibility: Supports multiple languages and tasks.
 
--Interactive UI: Simple and user-friendly design.
+- Interactive UI: Simple and user-friendly design.
 
 
 ## 🏆 Achievements
