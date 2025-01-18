@@ -37,22 +37,24 @@ Ensure you have Python installed, then run:
 
 ```bash
 Copy
-Edit
+
 pip install -r requirements.txt
 ```
 
-Set Up API Key 🔑
+## **Set Up API Key** 🔑
 Add your Groq API Key in the .env file:
 
-bash
+```bash
 Copy
-Edit
+
 GROQ_API_KEY=your_groq_api_key_here
-Run the App 🚀
+```
+## **Run the App** 🚀
 Launch the Streamlit app locally:
 
-bash
+```bash
 Copy
-Edit
+
 streamlit run app.py
-Enjoy Coding with Code Guru! 🎉
+```
+# Enjoy Coding with Code Guru! 🎉
