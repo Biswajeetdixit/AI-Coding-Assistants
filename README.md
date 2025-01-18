@@ -93,18 +93,24 @@ Hit the Run button and watch Code Guru do its magic! ✨
 
 ## 🤖 Why Code Guru?
 Efficiency: Save time on repetitive tasks.
+
 Accuracy: Get precise and optimized solutions.
+
 Flexibility: Supports multiple languages and tasks.
+
 Interactive UI: Simple and user-friendly design.
 
 
 ## 🏆 Achievements
 🌟 Built using state-of-the-art LLaMA 3.3-70B Specdec model.
+
 🔥 Hands-on integration with Groq API and Streamlit.
+
 💻 Developed by a passionate AI enthusiast, Biswajeet Dixit.
 
 
 ## 🚨 Important Notes
 Privacy First: Your input is processed securely via Groq API.
+
 Coding Tasks Only: Code Guru is optimized for coding-related queries. Non-coding tasks will prompt a friendly reminder! 🛑
 
